@@ -1,0 +1,5 @@
+#img-decor{
+    background-image: url(/bai5/house.jpg) , url(/bai5/iuh.jpg);
+    background-position: right bottom , left top;
+    background-repeat: no-repeat , repeat;
+}

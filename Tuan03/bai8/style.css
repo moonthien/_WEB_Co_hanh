@@ -1,0 +1,6 @@
+.border-decor{
+    border-color: #85C226 #F7C200 #4493A0 #DF127B;
+    border-style: solid dotted groove double;
+    border-width: 5px 10px 15px 20px;
+    border-radius: 0px 30px 70px 20px;
+}
